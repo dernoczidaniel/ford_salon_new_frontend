@@ -9,7 +9,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img style="width:100%; height: 500px;" src="../assets/img/Header/news header.jpg" alt="News">
+                    <!-- <img style="width:100%; height: 500px;" src="../assets/img/Header/news header.jpg" alt="News"> -->
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 800px;">
                             <h1 class="display-2 text-white text-uppercase mb-md-4">Hírek</h1>
