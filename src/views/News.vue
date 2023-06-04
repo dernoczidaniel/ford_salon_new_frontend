@@ -62,7 +62,7 @@
 
 
                 <div class="col-lg-12 text-center" style="min-height: 100px;">
-                    <img class="mb-4" src="../assets/img/Ad/F-150.jpg" alt="News1" width="40%" height="40%">
+                    <!-- <img class="mb-4" src="../assets/img/Ad/F-150.jpg" alt="News1" width="40%" height="40%"> -->
                 </div>
 
 
@@ -101,7 +101,7 @@
 
 
             <div class="col-lg-12 text-center" style="min-height: 100px;">
-                <img class="mb-4" src="../assets/img/Cars/Mustang Mach-E/Icon.png" alt="News1" width="40%" height="40%">
+                <!-- <img class="mb-4" src="../assets/img/Cars/Mustang Mach-E/Icon.png" alt="News1" width="40%" height="40%"> -->
             </div>
 
             <a href="" class="btn btn-primary py-2 px-5">Kezdőlap</a>
